@@ -52,5 +52,11 @@
         "name":"Brown Leather HandBag ",
         "price": 70,
         "image":"images/handbag (9).jpg"
+    },
+    {
+        "id": 10,
+        "name":"Brown Leather HandBag ",
+        "price": 70,
+        "image":"images/fe-shoes (7).jpg"
     }
 ]

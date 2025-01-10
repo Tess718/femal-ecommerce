@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Product name 1",
+        "price": 50,
+        "image": "images/handbag (1).jpg"
+    },
+    {
+        "id": 2,
+        "name":"HandBag",
+        "price": 70,
+        "image":"images/handbag (3).jpg"
+    },
+    {
+        "id": 3,
+        "name":"HandBag",
+        "price": 70,
+        "image":"images/handbag (9).jpg"
+    },
+    {
+        "id": 4,
+        "name":"HandBag",
+        "price": 70,
+        "image":"images/handbag (5).jpg"
+    },
+    {
+        "id": 5,
+        "name":"HandBag",
+        "price": 70,
+        "image":"images/handbag (6).jpg"
+    },
+    {
+        "id": 6,
+        "name":"HandBag",
+        "price": 70,
+        "image":"images/handbag (7).jpg"
+    },
+    {
+        "id": 7,
+        "name":"HandBag",
+        "price": 70,
+        "image":"images/handbag (2).jpg"
+    },
+    {
+        "id": 8,
+        "name":"Black Leather HandBag",
+        "price": 70,
+        "image":"images/handbag (8).jpg"
+    },
+    {
+        "id": 9,
+        "name":"Brown Leather HandBag ",
+        "price": 70,
+        "image":"images/handbag (9).jpg"
+    }
+]

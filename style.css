@@ -592,7 +592,7 @@ details summary{
 .row-6{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    gap: 30px;
 }
 .small-row{
     display: flex;
